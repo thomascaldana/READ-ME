@@ -44,3 +44,5 @@
 <br>
 
 ![Gif Thomás Gráfico](https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif)
+
+<img align="center" alt="GIF" src="https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif" width="338" height="218" /> 
