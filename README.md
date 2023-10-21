@@ -28,7 +28,8 @@
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomascaldana&theme=nord_dark)
 
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="338" height="218" /> 
+
+ <img align="center" alt="GIF" src="https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif" width="338" height="370" /> 
 
  <br>
   <br>
@@ -43,6 +44,4 @@
 
 <br>
 
-![Gif Thomás Gráfico](https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif)
-
-<img align="center" alt="GIF" src="https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif" width="338" height="218" /> 
+ 
