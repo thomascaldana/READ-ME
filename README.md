@@ -29,7 +29,7 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thomascaldana&theme=nord_dark)
 
 
- <img align="center" alt="GIF" src="https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif" width="338" height="370" /> 
+ <img align="center" alt="GIF" src="https://github.com/thomascaldana/READ-ME/blob/main/assets/thomas_grafico_comprimido.gif" width="338" height="338" /> 
 
  <br>
   <br>
